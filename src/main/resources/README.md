@@ -1,9 +1,7 @@
 # bamoe-canvas-quarkus-accelerator
-This is the BAMOE Canvas Quarkus Accelerator for Decisions and Workflows
+This is the BAMOE Canvas Quarkus Accelerator for Decisions
 
 Apply it to you repository inside BAMOE Canvas to build and run your decisions.
-
-*NOTE: Docker is required to run this image with all its dependencies.*
 
 ## Running
 
